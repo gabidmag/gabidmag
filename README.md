@@ -2,7 +2,6 @@
 <b>Oi, eu sou a Gabriela! 👋</b><br/>
 Estudante de <b>Ciência da Computação</b> e <b>Design Gráfico</b> 🎨💻<br/>
 Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
-<br> pronome: ela/dela ❤️
 </p>
 
 ---
