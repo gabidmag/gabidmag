@@ -44,7 +44,7 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabidmag&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabidmag&show_icons=true&theme=radical&include_all_commits=true&count_private=true" / 
   <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidmag&layout=compact&theme=radical&langs_count=6&custom_title=Minhas%20Tecnologias" />
 </p>
 
