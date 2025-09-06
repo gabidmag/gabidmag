@@ -51,7 +51,7 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
 
 ### ✨ Coisas divertidas sobre mim
 - 🎨 Amo pintar e criar artes visuais  
-- 🚀 Sonho em explorar astrofísica  
+- 🚀 Sonho em explorar astrofísica e acessibilidade  
 - 💡 Curiosa e criativa  
 
 ---
