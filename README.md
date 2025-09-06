@@ -1,9 +1,8 @@
 <p align="center">
-<img src="" width="200px"/><br/>
 <b>Oi, eu sou a Gabriela! 👋</b><br/>
 Estudante de <b>Ciência da Computação</b> e <b>Design Gráfico</b> 🎨💻<br/>
 Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
-❤️ | pronome: ela/dela
+<br> pronome: ela/dela ❤️
 </p>
 
 ---
@@ -35,8 +34,11 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
   <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
+  <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  </p>
+  </p>
 
 ---
 
