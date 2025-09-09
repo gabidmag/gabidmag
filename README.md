@@ -5,8 +5,6 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
 </p>
 
 ---
-
-### 🌟 GitHub Badges
 <p align="center">
     <a href="https://github.com/gabidmag?tab=repositories&sort=stargazers">
         <img 
