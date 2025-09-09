@@ -36,7 +36,7 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
   <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  </p>
+    <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   </p>
 
 ---
@@ -56,3 +56,11 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
 <p align="center">
   "Codando, criando e explorando o universo!" 🌌💻
 </p>
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/gabidmag" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn"/>
+  </a>
+
+</div>
