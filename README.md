@@ -65,6 +65,10 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-![Snake animation](https://github.com/gabidmag/gabidmag/blob/output/snake.svg)
+
+---
+<p align="center">
+  <img src="https://github.com/gabidmag/gabidmag/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 
