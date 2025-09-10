@@ -72,9 +72,4 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
   <img src="cat-computer.gif" alt="Snake animation" />
 </p>
 
----
-
-<p align="center">
-  ![snake animation](https://github.com/<seu gabidmage>/<seu gabidmag>/blob/output/github-contribution-grid-snake2.svg)
-</p>
 
