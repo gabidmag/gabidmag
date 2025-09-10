@@ -9,14 +9,17 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
+      # Faz o checkout do repositório
       - uses: actions/checkout@v3
 
+      # Gera a cobrinha
       - name: Generate Snake
         uses: platane/snk@v3
         with:
-          github_user_name: gabidmag
+          github_user_name: gabidmag  # seu usuário GitHub
           outputs: snake.svg
 
+      # Commit e push do SVG gerado
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
@@ -24,4 +27,6 @@ jobs:
           git add snake.svg
           git commit -m "Update snake.svg" || echo "Nothing to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
