@@ -1,20 +1,27 @@
 name: Snake GitHub
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # permite rodar manualmente
+  schedule:
+    - cron: '0 0 * * *'  # roda 1 vez por dia
 
 jobs:
-  snake:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: platane/snk@v3
         with:
           github_user_name: gabidmag
           outputs: snake.svg
-      - name: Commit SVG
+
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add snake.svg
-          git commit -m "Add snake.svg" || echo "Nothing to commit"
+          git commit -m "Update snake.svg" || echo "Nothing to commit"
           git push
+
