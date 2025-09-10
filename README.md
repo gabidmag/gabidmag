@@ -78,4 +78,3 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
   <img src="https://github.com/gabidmag/gabidmag/blob/main/snake.svg" alt="Snake animation" />
 </p>
 
-
