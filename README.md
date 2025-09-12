@@ -41,7 +41,8 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabidmag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   &nbsp;&nbsp;&nbsp; 
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidmag&layout=compact&theme=radical&langs_count=6&custom_title=Minhas%20Tecnologias" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidmag&layout=compact&theme=radical&langs_count=6&custom_title=Principais%20Tecnologias" />
+
 </p>
 
 ---
