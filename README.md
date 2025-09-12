@@ -10,7 +10,7 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabidmag?color=ffb400&style=for-the-badge&labelColor=ff6600&logo=star&label=Estrelas"
+            src="https://img.shields.io/github/stars/gabidmag?color=ffb400&style=for-the-badge&label=Estrelas"
         />
     </a>
     &nbsp;&nbsp;
@@ -18,10 +18,11 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabidmag?color=4bcffa&labelColor=0091ff&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/gabidmag?color=4bcffa&label=Seguidores&style=for-the-badge"
         />
     </a>
 </p>
+
 
 ---
 
