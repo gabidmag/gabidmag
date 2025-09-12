@@ -13,7 +13,8 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
             src="https://custom-icon-badges.demolab.com/github/stars/gabidmag?color=ffb400&style=for-the-badge&labelColor=ff6600&logo=star&label=Estrelas"
         />
     </a>
-        <a href="https://github.com/gabidmag?tab=followers">
+    &nbsp;&nbsp;
+    <a href="https://github.com/gabidmag?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
