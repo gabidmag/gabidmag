@@ -51,7 +51,11 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gabidmag&show_icons=true&theme=dracula&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabidmag&show_icons=true&theme=dracula&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabidmag&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
 </p>
 
 ---
