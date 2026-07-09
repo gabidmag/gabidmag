@@ -1,7 +1,6 @@
 <p align="center">
 <b>Oi, eu sou a Gabriela! 👋</b><br/>
-Estudante de <b>Ciência da Computação</b> e <b>Design Gráfico</b> 🎨💻<br/>
-Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Robotics+%26+AI+Enthusiast;Design+%2B+Technology+%3D+Creativity" />
 </p>
 
 ---
@@ -50,19 +49,10 @@ Apaixonada por <b>tecnologia, arte e astrofísica</b></b> ✨🚀
 
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabidmag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  &nbsp;&nbsp;&nbsp; 
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidmag&layout=compact&theme=radical&langs_count=6&custom_title=Principais%20Tecnologias" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=gabidmag&show_icons=true&theme=dracula&cache_seconds=1800"/>
 </p>
-
----
-
-### ✨ Coisas divertidas sobre mim
-- 🎨 Amo pintar e criar artes visuais  
-- 🚀 Sonho em explorar astrofísica e acessibilidade  
-- 💡 Curiosa e criativa  
 
 ---
 
