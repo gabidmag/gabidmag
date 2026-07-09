@@ -25,7 +25,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <p align="center">
   <img alt="Python" title="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
